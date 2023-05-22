@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ns377792" alt="ns377792" /></a> </p>
 
-- 🔭 I’m currently working on **BBARL Website**
+- 🔭 I’m currently working on **NITINSINGH.ONLINE**
 
 - 🌱 I’m currently learning **Android Studio**
-
-- 👯 I’m looking to collaborate on **BBARL Website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ns377792](https://github.com/ns377792)
 
 - 💬 Ask me about **React js & Django**
 
-- 📫 How to reach me **Nitin@bbaril.com**
+- 📫 How to reach me **Contact@nitinsingh.online**
 
-- ⚡ Fun fact **I Think I a**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
